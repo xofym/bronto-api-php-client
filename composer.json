@@ -18,5 +18,5 @@
   "scripts": {
     "test": "phpunit"
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
